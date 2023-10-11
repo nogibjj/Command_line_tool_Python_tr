@@ -14,12 +14,10 @@ def handle_arguments(args):
         choices=[
             "extract",
             "transform_load",
-            "update_record",
-            "delete_record",
-            "create_record",
             "general_query",
-            "read_data",
         ],
+        # shows how to run output
+        help="""Avaiable actions: extract, transform_load, general_query.""",
     )
     args = parser.parse_args(args[:1])
     print(args.action)
