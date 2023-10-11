@@ -18,7 +18,8 @@ Here, we use `alcohol.csv` as a sample dataset, convert it to a `.db` file. Then
 2. Extract data `make extract`: Extract `alcohol.csv` data from the url.     
 3. Transform and load data `make transform_load`.
 
-## Complex SQL Code
+## Complex SQL Code 
+
 ```
 SELECT a.country,
     SUM(a.beer_servings + a.spirit_servings + a.wine_servings) 
