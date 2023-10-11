@@ -1,8 +1,8 @@
-# Complex-SQL-Query-tr
+# Package a Python Script into a Command-Line Tool
 
 [![CI](https://github.com/nogibjj/Command_line_tool_Python_tr/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Command_line_tool_Python_tr/actions/workflows/cicd.yml)
 
-Week 6 Mini-Project
+Week 7 Mini-Project
 Tianji Rao
 
 ## Purpose
