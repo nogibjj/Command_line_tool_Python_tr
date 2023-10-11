@@ -1,13 +1,12 @@
 # Complex-SQL-Query-tr
 
-[![CI](https://github.com/nogibjj/Complex-SQL-Query-tr/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Complex-SQL-Query-tr/actions/workflows/cicd.yml)
-
+[![CI](https://github.com/nogibjj/Command_line_tool_Python_tr/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Command_line_tool_Python_tr/actions/workflows/cicd.yml)
 
 Week 6 Mini-Project
 Tianji Rao
 
 ## Purpose
-The purpose of this project is to use a complex SQL query on a Cloud data sever, Azure, on sample datasets to realize joins, aggregation, and sorting. 
+The purpose of this project is to creat a **command line tool** which can run a complex SQL query on a Cloud data sever, Azure, on sample datasets to realize joins, aggregation, and sorting. 
 Here, we use `alcohol.csv` as a sample dataset, convert it to a `.db` file. Then, we create a new toy dataset call `toyDB.db` and combin these two datasets. 
 
 ## Workflow
