@@ -47,16 +47,8 @@ This is a SQL query that selects data from two tables, "alcoholDB" and "toyDB," 
 |9|Ireland|596|
 |10|Belgium|591|
 
-
-## Actions 
-1. **Format**: `make format`    
-2. **Lint**: `make lint`
-3. **Test**: `make test`
-4. **extract**: `make extract`
-5. **transform_load**: `make transform_load`
-6. **query**: `make transform_load`
-
 ## Reference
 1. https://github.com/databricks/databricks-sql-python
 2. https://github.com/nogibjj/cloud-database-LAB
 3. https://learn.microsoft.com/en-us/azure/databricks/sql/admin/create-sql-warehouse
+4. https://github.com/nogibjj/Complex-SQL-Query-tr
